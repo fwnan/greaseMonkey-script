@@ -1,2 +1,2 @@
-# greaseMonkey-script
-油猴脚本清单
+# tamperMonkey-script
+油猴脚本自用
